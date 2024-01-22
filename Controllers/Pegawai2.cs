@@ -8,7 +8,7 @@ namespace cobaAPI.Controllers
     {
         public static List<Pegawai> a = new List<Pegawai>   
         {
-            new Pegawai ("Marsya", "UI/UX"),
+            new Pegawai ("siska", "UI/UX"),
             new Pegawai ("Indah", "UI/UX"),
             new Pegawai ("Yoga", "UI/UX"),
             new Pegawai ("Arya", "UI/UX")
